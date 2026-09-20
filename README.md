@@ -35,12 +35,12 @@ Current executable reality > current repository state > recent evidence > histor
 针对外部动态现场、公开实验与真实演化过程的独立实证研究（公开可复现与引用仓库）：
 
 * **[Grok Bot Live Study](https://github.com/billgaohub/grokbot-live-study)** — 针对 xAI Grok Bot 首日 90 分钟 live stream 的独立实证复盘：证据优先的时序记录、人工干预介入链、故障归因与认识论模态校准（双重许可：MIT / CC BY 4.0）。
-* **[MiMo RL Live Study](https://github.com/billgaohub/mimo-rl-live-study)** — 针对小米 MiMo-V2.6 大规模强化学习 live dashboard 的独立实证研究：解耦 Grader 验证服务架构、生产网络分区中断事件与观测者时序偏差审计（双重许可：MIT / CC BY 4.0）。
+* **[MiMo RL Live Study](https://github.com/billgaohub/mimo-rl-live-study)** — 针对小米 MiMo-V2.6 大规模强化学习 live dashboard 的独立实证研究：Grader 扩展轴主张、部署网络故障与时序偏差审计（双重许可：MIT / CC BY 4.0）。
 
 ### Research & Specifications
 智能体状态模型、状态机与衰变语义规范（独立公开规范仓库）：
 
-* **[agent-world-state](https://github.com/billgaohub/agent-world-state)** — Multi-agent state machines, world-state tracking, decay dynamics, and cross-study empirical state reconciliation. 跨智能体实证状态机与衰变动力学规范仓库。
+* **[agent-world-state](https://github.com/billgaohub/agent-world-state)** — 经验推导的 Agent 外部世界遥测观察、主张生命周期、时序解耦与实证审计规范与可执行校验器（v0.1.0 Experimental）。
 
 ### Research & Doctrine (Candidate)
 跨项目长期问题与方法论演化（母命题探索，母仓库维持 CANDIDATE 状态）：
