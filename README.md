@@ -53,7 +53,7 @@ Current executable reality > current repository state > recent evidence > histor
   * **OOPPG** — Optimization as Scheduling (`optimization-os/ooppg-core`)
   * **Dyna-Switch Benchmark** — Non-stationary optimization evaluation
 * **AIUCE & TEONU Series** (Deprecated / Prior Work)
-  * 个人 AI 十一层治理架构、主权网关与御史台决策审计原型（2026 年中已收束废弃，保全历史提交；已停止主动推进，作为 Prior Work 保留，远程归档状态留待 Phase 2 单独裁决）。
+  * 个人 AI 十一层治理架构、主权网关与御史台决策审计原型（2026 年中已收束废弃，保全历史提交；已停止主动推进，作为 Prior Work 保留；GitHub 历史仓库已于 Phase 2 正式归档）。
 
 ---
 
