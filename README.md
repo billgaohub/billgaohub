@@ -7,6 +7,23 @@ Building and studying systems that operate in changing worlds.
 Current executable reality > current repository state > recent evidence > historical notes > narrative
 ```
 
+## Core Work
+
+* **OOPPG** — Optimization as Scheduling  
+  → https://github.com/optimization-os/ooppg-core
+
+* **Benchmark** — Non-stationary optimization evaluation  
+  → https://github.com/optimization-os/dyna-switch-benchmark
+
+## Quick Start
+
+```bash
+git clone https://github.com/optimization-os/ooppg-core
+cd ooppg-core
+pip install -e .
+python examples/quick_start.py
+```
+
 ---
 
 ## Current Work
