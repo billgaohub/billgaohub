@@ -11,7 +11,7 @@ Current executable reality > current repository state > recent evidence > histor
 
 ## Current Work
 
-### Empirical Field Studies
+### Field Studies 系列（Empirical Field Studies）
 针对外部动态现场、公开实验与真实演化过程的独立实证研究（Evidence-first field studies of AI systems in the wild，公开可复现与引用仓库）：
 
 * **[Grok Bot Live Study](https://github.com/billgaohub/grokbot-live-study)** — 针对 xAI Grok Bot 首日 90 分钟 live stream 的独立实证复盘：证据优先的时序记录、人工干预介入链、故障归因与认识论模态校准（双重许可：MIT / CC BY 4.0）。
