@@ -53,13 +53,12 @@ Current executable reality > current repository state > recent evidence > histor
 
 ## Prior Work (Preserved History)
 
-历史资产与阶段性收束探索（保留 commit 历史与出处）：
+历史资产与阶段性收束探索（保全历史提交，已全面归档转入私有封存）：
 
-* **Optimization & Scheduling Systems** (Frozen for preservation)
-  * **OOPPG** — Optimization as Scheduling (`optimization-os/ooppg-core`)
-  * **Dyna-Switch Benchmark** — Non-stationary optimization evaluation (`optimization-os/dyna-switch-benchmark`)
-* **AIUCE & TEONU Series** (Deprecated / Prior Work)
-  * 个人 AI 十一层治理架构、主权网关与御史台决策审计原型（2026 年中已收束废弃，保全历史提交；已停止主动推进，作为 Prior Work 保留；GitHub 历史仓库已于 Phase 2 正式归档）。
+* **Optimization & Scheduling Prototypes** (Preserved)
+  * 强化学习优化调度与动态切换基准评估原型研究（已归档封存）。
+* **Decentralized AI Governance Prototypes** (Preserved)
+  * 个人 AI 多层级治理架构、主权网关与决策审计原型（保全历史提交，已归档封存）。
 
 ---
 
